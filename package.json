@@ -1,0 +1,19 @@
+{
+  "name": "l10n.js",
+  "version": "0.0.0",
+  "description": "JavaScript library that enables passive localization through native JavaScript methods",
+  "main": "l10n.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eligrey/l10n.js.git"
+  },
+  "keywords": [
+    "localization"
+  ],
+  "author": "?F:? Working Group",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eligrey/l10n.js/issues"
+  },
+  "homepage": "https://github.com/eligrey/l10n.js"
+}
